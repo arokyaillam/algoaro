@@ -1,15 +1,21 @@
-# Elysia with Bun runtime
+# Algoaro
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
+This is a simple project created with Bun and Elysia.
+
+## Installation
+
+To install the dependencies, run:
+
 ```bash
-bun create elysia ./elysia-example
+bun install
 ```
 
-## Development
-To start the development server run:
+## Usage
+
+To start the development server, run:
+
 ```bash
 bun run dev
 ```
 
-Open http://localhost:3000/ with your browser to see the result.
+The server will be running at http://localhost:3000.
